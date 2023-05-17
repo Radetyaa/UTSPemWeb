@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://localhost:8080/';
+$config['base_url'] = 'http://localhost:8088/';
 
 /*
 |--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ $config['base_url'] = 'https://localhost:8080/';
 $config['index_page'] = 'index.php';
 
 /*
-|--------------------------------------------------------------------------
+|------------------.1--------------------------------------------------------
 | URI PROTOCOL
 |--------------------------------------------------------------------------
 |
